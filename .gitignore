@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+
+# custom things!!! Sure to add  
 package-lock.json
 .env
 
